@@ -1,0 +1,19 @@
+.intro__container {
+  width: 984px;
+}
+
+@media screen and (max-width: 1260px) {
+  .intro__container {
+  width: 928px;
+  }
+}
+@media screen and (max-width: 1020px) {
+  .intro__container {
+  width: 768px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .intro__container {
+  width: 288px;
+  }
+}

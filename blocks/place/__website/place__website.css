@@ -1,0 +1,14 @@
+.place__website {
+  width: 100%;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+
+.place__website:hover {
+  opacity: 0.3;
+}
