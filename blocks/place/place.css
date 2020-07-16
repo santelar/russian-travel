@@ -3,6 +3,10 @@
   padding-bottom: 80px;
 }
 
+.place:last-of-type {
+  padding-bottom: 0;
+}
+
 @media screen and (max-width: 1020px) {
   .place {
   max-width: 720px;

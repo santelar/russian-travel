@@ -1,6 +1,5 @@
 .place__website {
   width: 100%;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -10,5 +9,5 @@
 }
 
 .place__website:hover {
-  opacity: 0.3;
+  opacity: 0.8;
 }

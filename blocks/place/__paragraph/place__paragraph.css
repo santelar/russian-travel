@@ -1,14 +1,13 @@
 .place__paragraph {
   margin: 0 0 24px 0;
   max-width: 484px;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 1.67;
   color: #FFFFFF;
 }
-.place__paragraph:nth-of-type(2n) {
+.place__paragraph:last-of-type {
   margin: 0;
 }
 
@@ -29,7 +28,7 @@
   margin: 24px auto 0 auto;
   max-width: 288px;
   }
-  .place__paragraph:nth-of-type(2n) {
+  .place__paragraph:last-of-type {
   margin: 24px auto 0 auto;
   }
 }

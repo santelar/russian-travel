@@ -1,6 +1,5 @@
 .header__lang-link {
   max-width: 29px;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -10,8 +9,8 @@
   text-decoration: none;
 }
 
-.header__lang-link:nth-of-type(2n) {
-  margin-right: 0;
+  .header__lang-link:hover {
+  text-decoration: underline;
 }
 
 @media screen and (max-width: 540px) {
@@ -21,3 +20,5 @@
   line-height: 1.33;
   }
 }
+
+/*Можно сделать их Кнопками - но в макете нет информации о состоянии вкл./выкл. И как я понял это через JS делают. Это еще не проходили ).
