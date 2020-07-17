@@ -13,12 +13,10 @@
   text-decoration: underline;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 787px) {
   .header__lang-link {
   max-width: 22px;
   font-size: 18px;
   line-height: 1.33;
   }
 }
-
-/*Можно сделать их Кнопками - но в макете нет информации о состоянии вкл./выкл. И как я понял это через JS делают. Это еще не проходили ).
