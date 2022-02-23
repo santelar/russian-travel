@@ -1,6 +1,9 @@
 .root {
 
   margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   background: #2A2C2F;
   -moz-osx-font-smoothing: grayscale;
